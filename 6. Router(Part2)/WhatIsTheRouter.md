@@ -1,4 +1,4 @@
-# WAN(Wide area network)/VPN
+# CAN(Campus Area Network)
 
 ### Link
 https://www.youtube.com/watch?v=zN8YNNHcaZc&t=4202s
